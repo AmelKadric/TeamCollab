@@ -1,12 +1,15 @@
 package utils;
 
+import java.util.SortedMap;
+
 public class MainUtils {
 
-    public void coolMethod(){
+    public static void main(String[] args) {
 
-    }
 
-    public void otherCoolMethod(){
+        System.out.println("Hello Paul, welcome");
+
+        System.out.println("Hello Adam, welcome");
 
     }
 
